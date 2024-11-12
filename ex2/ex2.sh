@@ -5,4 +5,4 @@ head -n 5 lorem.txt
 
 echo "Linhas com a palavra 'erro'"
 
-grep 'erro' lorem.txt
+grep -i 'erro' lorem.txt
